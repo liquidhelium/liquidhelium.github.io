@@ -1,14 +1,14 @@
 {
     "discription": "1",
     "groups": [{
-        "x": [{
+        "x_position": [{
             "start_time": -10000,
             "end_time": 10000,
             "start_value": 0,
             "end_value": 0,
             "ease_type": 1
         }],
-        "y": [{
+        "y_position": [{
             "start_time": -10000,
             "end_time": 10000,
             "start_value": 0,
