@@ -253,6 +253,8 @@ plugins:
     # Show the "back to top" button
     back_to_top: true
     katex: true
+    google_analytics:
+        tracking_id: G-25W5XVB25W
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
