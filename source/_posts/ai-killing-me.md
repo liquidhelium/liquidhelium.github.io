@@ -2,7 +2,6 @@
 title: 为什么我停止了使用AI补全
 date: 2025-07-02 01:00:00
 tags:
-	- 语文学习
 	- 笔记
 cover: /img/abstract_blured.jpg
 ---
